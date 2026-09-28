@@ -3,3 +3,4 @@ Nhom 08
 24521013 - Ta Duc Long
 
 I am beginning to understand Git
+Added content from branch feature
